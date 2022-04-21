@@ -4,6 +4,9 @@
 
 [Project website](https://ampu3ro.wixsite.com/mapnyc)
 
+[Full Report PDF](https://github.com/JeremyR327/mapnyc/files/8531803/jr_3418_na2698_xl3389_Capstone_Final.pdf)
+
+
 ----
 
 #### Platform
